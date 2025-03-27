@@ -28,7 +28,7 @@ SETUP INSTRUCTIONS :
 5) Run Application :
 -> On STS, right click on project - Run as - Spring Boot App
 
-6) Test APIS (This instructions are for POSTMAN [API testing tool] ):
+6) Test APIS (use POSTMAN or any other API testing tool):
    
    1] for POST API :
    => URL: http://localhost:8080/api/training-centers
