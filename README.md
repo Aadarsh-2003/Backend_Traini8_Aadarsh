@@ -1,6 +1,6 @@
 Training Center Registry API:
 
-It is a Spring Boot application for registering and managing Government-funded Training Centers.
+This is a Spring Boot application for registering and managing Government-funded Training Centers. It provides REST APIs to create and retrieve training center details with proper validations, exception handling, and database persistence using Hibernate JPA and MySQL.
 
 PREREQUISITES :
 -> Java 17 or higher
